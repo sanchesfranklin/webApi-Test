@@ -1,0 +1,11 @@
+C:\Users\sanch\Desktop\app_ubuntu\Test_Api\bin\Release\net6.0\publish\Test_Api.exe
+C:\Users\sanch\Desktop\app_ubuntu\Test_Api\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\sanch\Desktop\app_ubuntu\Test_Api\bin\Release\net6.0\publish\appsettings.json
+C:\Users\sanch\Desktop\app_ubuntu\Test_Api\bin\Release\net6.0\publish\Test_Api.dll
+C:\Users\sanch\Desktop\app_ubuntu\Test_Api\bin\Release\net6.0\publish\Test_Api.deps.json
+C:\Users\sanch\Desktop\app_ubuntu\Test_Api\bin\Release\net6.0\publish\Test_Api.runtimeconfig.json
+C:\Users\sanch\Desktop\app_ubuntu\Test_Api\bin\Release\net6.0\publish\Test_Api.pdb
+C:\Users\sanch\Desktop\app_ubuntu\Test_Api\bin\Release\net6.0\publish\Microsoft.OpenApi.dll
+C:\Users\sanch\Desktop\app_ubuntu\Test_Api\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sanch\Desktop\app_ubuntu\Test_Api\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sanch\Desktop\app_ubuntu\Test_Api\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
