@@ -27,6 +27,4 @@ jobs:
       run: cp -fR ${{secrets.CAMINHO_DEPLOY}} ${{secrets.CAMINHO_APLICACAO}}
       
     - name: Reiniciando Api
-      run: |
-        sudo systemctl restart testApi.service
-        sl280407
+      run: sudo systemctl restart testApi.service
