@@ -18,13 +18,10 @@ jobs:
       run: dotnet build ${{ secrets.CAMINHO_PROJETO }} --configuration Release
 
     - name: Publish com o utilitario dotnet
-      run: dotnet publish ${{ secrets.CAMINHO_PROJETO }} -c Release -o ./app
+      run: dotnet publish ${{ secrets.CAMINHO_PROJETO }} -c Release -o app
       
     - name: Test
       run: dotnet test --no-build --verbosity normal
-      
-    - name: Executando comando
-      run: |
-        echo Hello World!
-        sleep 15
-        echo encerrando!
+        
+    - name: Copiando Deploy
+      run: cp -fR ${{secrets.CAMINHO_DEPLOY}} ${{secrets.CAMINHO_APLICACAO}}
